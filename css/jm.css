@@ -23,9 +23,9 @@ main h1 {
   border: 3px solid rgba(0, 128, 0, 0.432);
   border-radius: 1rem;
   background-color: green;
-  background: url("/img/arvore.png") no-repeat 600px -30px,
-    url("/img/grama.png") no-repeat center 120px,
-    url("/img/folhagem.png") no-repeat top left;
+  background: url("../img/arvore.png") no-repeat 600px -30px,
+    url("../img/grama.png") no-repeat center 120px,
+    url("../img/folhagem.png") no-repeat top left;
   background-size: cover;
   background-clip: content-box;
   padding: 0.3rem;
